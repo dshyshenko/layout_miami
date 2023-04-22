@@ -1,9 +1,0 @@
-.detail {
-  &__place {
-    margin-bottom: 40px;
-
-    @include minTablet {
-      margin-bottom: 48px;
-    }
-  }
-}
